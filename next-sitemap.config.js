@@ -35,6 +35,7 @@ export default {
       '/kana': 0.9,
       '/kanji': 0.9,
       '/vocabulary': 0.9,
+      '/translate': 0.9,
       '/preferences': 0.6,
       '/achievements': 0.7,
       '/progress': 0.7
@@ -45,6 +46,7 @@ export default {
       '/kana': 'weekly',
       '/kanji': 'weekly',
       '/vocabulary': 'weekly',
+      '/translate': 'daily',
       '/preferences': 'monthly',
       '/achievements': 'weekly',
       '/progress': 'weekly'
