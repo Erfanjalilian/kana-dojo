@@ -21,7 +21,13 @@
       "Bash(pwd:*)",
       "Bash(echo:*)",
       "Bash(find:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Read",
+      "Write",
+      "Edit",
+      "Glob",
+      "Grep",
+      "TodoWrite"
     ],
     "deny": [
       "Bash(git push --force:*)",
