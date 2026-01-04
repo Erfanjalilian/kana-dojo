@@ -13,8 +13,8 @@ After completing any code changes, follow these rules from AGENTS.md:
 
 1. **Format:** Use conventional commits with multiple `-m` flags for multiline messages:
 
-   ```bash
-   git add -A && git commit -m "<type>(<scope>): <description>" -m "<body line 1>" -m "<body line 2>"
+   ```powershell
+   git add -A; git commit -m "<type>(<scope>): <description>" -m "<body line 1>" -m "<body line 2>"
    ```
 
 2. **Conventional Commit Types:**
@@ -29,8 +29,8 @@ After completing any code changes, follow these rules from AGENTS.md:
 
 3. **Example:**
 
-   ```bash
-   git add -A && git commit -m "feat(kana): add dakuon character support" -m "Added new dakuon characters to hiragana set" -m "Updated KanaCards component to display dakuon"
+   ```powershell
+   git add -A; git commit -m "feat(kana): add dakuon character support" -m "Added new dakuon characters to hiragana set" -m "Updated KanaCards component to display dakuon"
    ```
 
 4. **Scope examples:** kana, kanji, vocabulary, progress, preferences, ui, i18n, a11y
