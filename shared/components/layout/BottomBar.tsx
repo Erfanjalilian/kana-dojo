@@ -42,12 +42,12 @@ const socialLinks: SocialLink[] = [
     url: 'https://ko-fi.com/kanadojo',
     type: 'lucide',
     special: 'donate'
-  },
-  {
-    icon: faPatreon,
-    url: 'https://www.patreon.com/kanadojo',
-    type: 'fontawesome'
   }
+  // {
+  //   icon: faPatreon,
+  //   url: 'https://www.patreon.com/kanadojo',
+  //   type: 'fontawesome'
+  // }
 ];
 
 const MobileBottomBar = () => {
