@@ -16,3 +16,12 @@ export { default as KanaWave } from './components/KanaWave';
 export { default as ZenBonsai } from './components/ZenBonsai';
 export { default as KanaNebula } from './components/KanaNebula';
 export { default as KanaSearch } from './components/KanaSearch';
+// New experiments (2026-01)
+export { default as KanaMirror } from './components/KanaMirror';
+export { default as KanaOrbit } from './components/KanaOrbit';
+export { default as KanaPulse } from './components/KanaPulse';
+export { default as KanaZen } from './components/KanaZen';
+export { default as KanaShadow } from './components/KanaShadow';
+export { default as KanaStack } from './components/KanaStack';
+export { default as KanaWhisper } from './components/KanaWhisper';
+export { default as KanaGlow } from './components/KanaGlow';

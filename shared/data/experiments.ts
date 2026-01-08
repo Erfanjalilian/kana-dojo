@@ -17,7 +17,15 @@ import {
   TreePine,
   Telescope,
   Search,
-  LucideIcon
+  LucideIcon,
+  Eye,
+  Orbit,
+  Activity,
+  Feather,
+  Eclipse,
+  Layers,
+  AudioLines,
+  Lightbulb
 } from 'lucide-react';
 
 export type Experiment = {
@@ -30,6 +38,63 @@ export type Experiment = {
 };
 
 export const experiments: Experiment[] = [
+  // Newest Experiments (2026-01-08)
+  {
+    name: 'Kana Glow',
+    description: 'Interactive light display',
+    href: '/experiments/glow',
+    icon: Lightbulb,
+    color: 'text-yellow-300'
+  },
+  {
+    name: 'Kana Whisper',
+    description: 'Remember the fading kana',
+    href: '/experiments/whisper',
+    icon: AudioLines,
+    color: 'text-pink-300'
+  },
+  {
+    name: 'Kana Stack',
+    description: 'Sort kana alphabetically',
+    href: '/experiments/stack',
+    icon: Layers,
+    color: 'text-orange-400'
+  },
+  {
+    name: 'Kana Shadow',
+    description: 'Guess the silhouette',
+    href: '/experiments/shadow',
+    icon: Eclipse,
+    color: 'text-slate-400'
+  },
+  {
+    name: 'Kana Zen',
+    description: 'Peaceful floating meditation',
+    href: '/experiments/kana-zen',
+    icon: Feather,
+    color: 'text-teal-400'
+  },
+  {
+    name: 'Kana Pulse',
+    description: 'Fast reflex tapping game',
+    href: '/experiments/pulse',
+    icon: Activity,
+    color: 'text-red-400'
+  },
+  {
+    name: 'Kana Orbit',
+    description: 'Mesmerizing orbital circles',
+    href: '/experiments/orbit',
+    icon: Orbit,
+    color: 'text-violet-400'
+  },
+  {
+    name: 'Kana Mirror',
+    description: 'Match hiragana ↔ katakana',
+    href: '/experiments/mirror',
+    icon: Eye,
+    color: 'text-cyan-300'
+  },
   // New Experiments (2026)
   {
     name: 'Kana Pop',
