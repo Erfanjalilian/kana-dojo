@@ -253,6 +253,12 @@ const baseThemeSets: BaseThemeGroup[] = [
     icon: Moon,
     themes: [
       {
+        id: 'lucky-bamboo',
+        backgroundColor: 'oklch(92.0% 0.025 145.0 / 1)',
+        mainColor: 'oklch(55.0% 0.175 145.0 / 1)',
+        secondaryColor: 'oklch(45.0% 0.125 140.0 / 1)'
+      },
+      {
         id: 'natto-brown',
         backgroundColor: 'oklch(22.0% 0.032 60.0 / 1)',
         mainColor: 'oklch(58.0% 0.095 65.0 / 1)',
