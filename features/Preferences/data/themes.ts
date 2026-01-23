@@ -1316,10 +1316,12 @@ const baseThemeSets: BaseThemeGroup[] = [
       {
         // "kyoki" (狂気) means "madness/craziness" in Japanese
         // Selecting this theme enables random theme cycling on each question
-        id: 'kyoki',
-        backgroundColor: 'oklch(18.0% 0.055 300.0 / 1)', // deep purple
-        mainColor: 'oklch(85.0% 0.220 320.0 / 1)', // vibrant magenta-pink
-        secondaryColor: 'oklch(78.0% 0.200 180.0 / 1)', // electric cyan
+        // Display name is "?" to signify mystery/chaos
+        // NOTE: The theme button has a crazy gradient background applied in Themes.tsx
+        id: '?',
+        backgroundColor: 'oklch(15.0% 0.045 280.0 / 1)', // dark base
+        mainColor: 'oklch(95.0% 0.180 320.0 / 1)', // bright magenta-pink
+        secondaryColor: 'oklch(90.0% 0.200 180.0 / 1)', // vivid cyan
       },
     ],
   },

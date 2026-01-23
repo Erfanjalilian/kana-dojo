@@ -155,14 +155,23 @@ const Themes = () => {
                 key={currentTheme.id}
                 style={{
                   color: currentTheme.mainColor,
-                  backgroundColor:
-                    isHovered === currentTheme.id
-                      ? currentTheme.cardColor
-                      : currentTheme.backgroundColor,
-                  /* 
-                  borderWidth:
-                    process.env.NODE_ENV === 'development' ? '2px' : undefined,
- */
+                  background:
+                    currentTheme.id === '?'
+                      ? `linear-gradient(
+                          142deg,
+                          oklch(45.0% 0.14 230.0 / 1) 0%,
+                          oklch(52.0% 0.20 345.0 / 1) 11%,
+                          oklch(48.0% 0.18 95.0 / 1) 23%,
+                          oklch(44.0% 0.16 200.0 / 1) 38%,
+                          oklch(50.0% 0.22 330.0 / 1) 52%,
+                          oklch(46.0% 0.15 110.0 / 1) 64%,
+                          oklch(48.0% 0.19 295.0 / 1) 78%,
+                          oklch(52.0% 0.17 35.0 / 1) 89%,
+                          oklch(45.0% 0.14 230.0 / 1) 100%
+                        )`
+                      : isHovered === currentTheme.id
+                        ? currentTheme.cardColor
+                        : currentTheme.backgroundColor,
                   borderColor: currentTheme.borderColor,
                 }}
                 onMouseEnter={() => {
