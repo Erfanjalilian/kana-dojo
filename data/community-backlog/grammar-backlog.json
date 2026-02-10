@@ -296,19 +296,23 @@
   },
   {
     "id": 60,
-    "text": "\"〜にしては\" means \"considering...\"."
+    "text": "\"〜にしては\" means \"considering...\".",
+    "completed": true
   },
   {
     "id": 61,
-    "text": "\"〜にとって\" means \"for / to (someone)\"."
+    "text": "\"〜にとって\" means \"for / to (someone)\".",
+    "completed": true
   },
   {
     "id": 62,
-    "text": "\"〜につれて\" means \"as... changes, ... also changes\"."
+    "text": "\"〜につれて\" means \"as... changes, ... also changes\".",
+    "completed": true
   },
   {
     "id": 63,
-    "text": "\"〜に比べて\" means \"compared to...\"."
+    "text": "\"〜に比べて\" means \"compared to...\".",
+    "issued": true
   },
   {
     "id": 64,
