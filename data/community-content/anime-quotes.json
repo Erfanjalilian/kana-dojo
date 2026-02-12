@@ -168,10 +168,17 @@
     "character": "Lelouch vi Britannia"
   },
   {
-  "japanese": "俺は人間をやめるぞ！ジョジョーーッ！！",
-  "romaji": "Ore wa ningen o yameru zo! Jojo!!",
-  "english": "I'm going to stop being human, JoJo!",
-  "anime": "JoJo's Bizarre Adventure: Phantom Blood",
-  "character": "Dio Brando"
+    "japanese": "俺は人間をやめるぞ！ジョジョーーッ！！",
+    "romaji": "Ore wa ningen o yameru zo! Jojo!!",
+    "english": "I'm going to stop being human, JoJo!",
+    "anime": "JoJo's Bizarre Adventure: Phantom Blood",
+    "character": "Dio Brando"
+  },
+  {
+    "japanese": "やれやれだぜ…まったく。",
+    "romaji": "Yare yare da ze... mattaku.",
+    "english": "Good grief... honestly.",
+    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "character": "Jotaro Kujo"
   }
 ]
