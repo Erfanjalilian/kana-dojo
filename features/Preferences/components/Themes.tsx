@@ -185,6 +185,7 @@ const Themes = () => {
                     'col-span-2 row-span-2',
                   'flex items-center justify-center rounded-xl py-4 hover:cursor-pointer',
                   'flex-1',
+                  isPremiumThemeId(currentTheme.id) && 'h-20 overflow-hidden',
                   currentTheme.id === 'big-beautiful-theme' && 'min-h-[11rem]',
                   currentTheme.id === selectedTheme &&
                     'border-0 border-(--main-color)',

@@ -156,7 +156,7 @@
     "english": "But... that's what I like.",
     "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
     "character": "Yoshikage Kira",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -166,7 +166,7 @@
     "english": "Bucciarati is here!",
     "anime": "JoJo's Bizarre Adventure: Golden Wind",
     "character": "Narancia Ghirga",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -177,7 +177,7 @@
     "anime": "Fist of the North Star",
     "character": "Kenshiro",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 19,
@@ -186,7 +186,7 @@
     "english": "What?!",
     "anime": "Fist of the North Star",
     "character": "Shin",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -196,7 +196,7 @@
     "english": "I'm gonna be King of the Pirates!",
     "anime": "One Piece",
     "character": "Monkey D. Luffy",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -206,7 +206,7 @@
     "english": "If you give up, that's the end of the game.",
     "anime": "Slam Dunk",
     "character": "Kaede Rukawa",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -217,7 +217,7 @@
     "anime": "Mobile Suit Gundam",
     "character": "Char Aznable",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 23,
@@ -226,7 +226,7 @@
     "english": "Dance to my beautiful technique!",
     "anime": "The Prince of Tennis",
     "character": "Keigo Atobe",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -237,7 +237,7 @@
     "anime": "Neon Genesis Evangelion",
     "character": "Rei Ayanami",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 25,
@@ -247,7 +247,7 @@
     "anime": "Mobile Suit Gundam 00",
     "character": "Setsuna F. Seiei",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 26,
@@ -256,7 +256,7 @@
     "english": "This world is cruel... yet so beautiful.",
     "anime": "Attack on Titan",
     "character": "Mikasa Ackerman",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -266,7 +266,7 @@
     "english": "Lero lero lero lero.",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Noriaki Kakyoin",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -276,7 +276,7 @@
     "english": "Fosh fosh fosh fosh.",
     "anime": "One Piece",
     "character": "Kozuki Sukiyaki",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

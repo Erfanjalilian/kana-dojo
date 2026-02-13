@@ -507,11 +507,13 @@ export default function CustomWallpaperUpload() {
                 }
               }}
               disabled={isProcessing || isAtLimit}
+              style={{ outline: 'none', boxShadow: 'none' }}
               className={clsx(
-                'w-full bg-transparent text-sm outline-none',
+                'w-full appearance-none bg-transparent text-sm outline-none',
                 'text-(--main-color)',
                 'placeholder:text-(--secondary-color)/50',
                 'disabled:cursor-not-allowed disabled:opacity-50',
+                'focus:shadow-none focus:ring-0 focus:outline-none focus-visible:outline-none',
               )}
             />
             {urlInput && !isProcessing && (
