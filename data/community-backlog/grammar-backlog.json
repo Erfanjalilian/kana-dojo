@@ -99,72 +99,72 @@
     "id": 17,
     "text": "\"〜てあげる\" shows the speaker does a favor for someone else.",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 18,
     "text": "\"〜ようと思う\" expresses a decision made at the moment of speaking.",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 19,
     "text": "\"〜なら\" means \"if\" or \"in the case of\" and often gives advice.",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
     "id": 20,
     "text": "\"〜たら\" is a conditional \"if/when\" that also expresses sequence.",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
     "id": 21,
     "text": "\"〜ば\" forms a conditional meaning \"if\" in a general sense.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 22,
     "text": "\"〜ても\" means \"even if\" or \"even though\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 23,
     "text": "\"〜のに\" expresses contrast or regret, similar to \"even though\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 24,
     "text": "\"〜ので\" gives a reason in a polite or softer way than \"から\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 25,
     "text": "\"〜たところ\" can mean \"just did\" something and observed a result.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 26,
     "text": "\"〜まま\" means \"as is\" or \"unchanged\".",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
     "id": 27,
     "text": "\"〜ばかり\" means \"just\" (in terms of time) or \"only\" depending on context.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 28,
     "text": "\"〜すぎる\" attaches to verbs or adjectives to mean \"too much\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
